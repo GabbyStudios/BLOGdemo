@@ -1,4 +1,12 @@
 
+      .rounded-rectangle {
+        background-color: #f5f5f5;
+        border-radius: 25px;
+        padding: 20px;
+        margin-top: 20px;
+      }
+
+
         .miur-bar {
             background-color: #21215c;
             color: #fff;
